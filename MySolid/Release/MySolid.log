@@ -1,0 +1,157 @@
+﻿  Solid.cpp
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(3,1): warning C4005: '_CRT_SECURE_NO_DEPRECATE': macro redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp : message : see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9,10): error C2146: syntax error: missing ';' before identifier 'rx'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(10,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(10,12): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(10,10): error C2146: syntax error: missing ';' before identifier 'ry'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(11,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(11,12): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(11,10): error C2146: syntax error: missing ';' before identifier 'tx'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(12,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(12,12): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(12,10): error C2146: syntax error: missing ';' before identifier 'ty'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(13,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(13,12): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(13,10): error C2146: syntax error: missing ';' before identifier 'tz'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(14,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(14,8): error C2146: syntax error: missing ';' before identifier 'tt'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(15,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(15,13): error C2086: 'int GLint': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(14): message : see declaration of 'GLint'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(15,7): error C2146: syntax error: missing ';' before identifier 'spin1'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(16,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(16,13): error C2086: 'int GLint': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(14): message : see declaration of 'GLint'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(16,7): error C2146: syntax error: missing ';' before identifier 'spin2'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(17,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(17,14): error C2086: 'int GLint': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(14): message : see declaration of 'GLint'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(17,7): error C2146: syntax error: missing ';' before identifier 'spin11'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(18,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(18,14): error C2086: 'int GLint': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(14): message : see declaration of 'GLint'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(18,7): error C2146: syntax error: missing ';' before identifier 'spin12'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(24,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(24,8): error C2146: syntax error: missing ';' before identifier 'texture1'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(26,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(26,12): error C2086: 'int GLuint': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(24): message : see declaration of 'GLuint'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(26,8): error C2146: syntax error: missing ';' before identifier 'list'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(33,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(33,24): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(33,9): error C2146: syntax error: missing ';' before identifier 'light0_position'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(33,29): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(33,29): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(34,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(34,24): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(34,9): error C2146: syntax error: missing ';' before identifier 'light1_position'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(34,29): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(34,29): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(35,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(35,23): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(35,9): error C2146: syntax error: missing ';' before identifier 'light1_ambient'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(35,28): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(35,28): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(36,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(36,21): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(36,9): error C2146: syntax error: missing ';' before identifier 'mat_specular'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(36,26): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(36,26): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(37,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(37,24): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(37,9): error C2146: syntax error: missing ';' before identifier 'diffuseMaterial'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(37,30): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(37,30): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(38,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(38,20): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(38,9): error C2146: syntax error: missing ';' before identifier 'mat_ambient'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(38,25): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(38,25): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(39,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(39,18): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(39,9): error C2146: syntax error: missing ';' before identifier 'mat_shine'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(39,23): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(39,23): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(40,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(40,23): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(40,9): error C2146: syntax error: missing ';' before identifier 'light1_diffuse'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(40,28): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(40,28): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(41,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(41,24): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(9): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(41,9): error C2146: syntax error: missing ';' before identifier 'light1_specular'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(41,29): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(41,29): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(42,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(42,19): error C2086: 'int GLuint': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(24): message : see declaration of 'GLuint'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(42,8): error C2146: syntax error: missing ';' before identifier 'LoadTexture'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(43,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(43,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96,17): error C2146: syntax error: missing ';' before identifier 'ambient'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96,17): error C2065: 'ambient': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96,25): error C2059: syntax error: ']'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96,29): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96,50): error C2143: syntax error: missing ';' before '}'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(97,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(97,24): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(97,17): error C2146: syntax error: missing ';' before identifier 'diffuse'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(97,17): error C2065: 'diffuse': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(97,25): error C2059: syntax error: ']'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(97,29): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(97,50): error C2143: syntax error: missing ';' before '}'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(100,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(100,25): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(100,17): error C2146: syntax error: missing ';' before identifier 'specular'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(100,17): error C2065: 'specular': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(100,26): error C2059: syntax error: ']'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(100,30): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(100,51): error C2143: syntax error: missing ';' before '}'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(110,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(110,24): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(110,17): error C2146: syntax error: missing ';' before identifier 'positn1'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(110,17): error C2065: 'positn1': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(110,25): error C2059: syntax error: ']'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(110,29): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(110,51): error C2143: syntax error: missing ';' before '}'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(111,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(111,24): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(111,17): error C2146: syntax error: missing ';' before identifier 'direct1'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(111,17): error C2065: 'direct1': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(111,25): error C2059: syntax error: ']'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(111,29): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(111,46): error C2143: syntax error: missing ';' before '}'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(113,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(113,20): error C2086: 'int GLfloat': redefinition
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(96): message : see declaration of 'GLfloat'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(113,17): error C2146: syntax error: missing ';' before identifier 'mas'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(113,17): error C2065: 'mas': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(113,21): error C2059: syntax error: ']'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(113,25): error C2143: syntax error: missing ';' before '{'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(113,46): error C2143: syntax error: missing ';' before '}'
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(115,12): error C2065: 'GL_LIGHT0': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(115,23): error C2065: 'GL_POSITION': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(115,36): error C2065: 'positn1': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(115,2): error C3861: 'glLightfv': identifier not found
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(116,12): error C2065: 'GL_LIGHT0': undeclared identifier
+C:\Users\ola\Desktop\MySolidLight\MySolid\Solid.cpp(116,21): fatal error C1003: error count exceeds 100; stopping compilation
